@@ -1,4 +1,9 @@
 ## Hi there 👋
+Name: Md. Khalid Hasan Shanto
+Id. 2215151026
+Sec-7A2
+Course Titel -Simulation and Modeling Lab
+Course Code- CSE 413
 
 <!--
 **khalidshanto/khalidshanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
